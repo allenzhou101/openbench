@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.4.0](https://github.com/groq/openbench/compare/v0.3.0...v0.4.0) (2025-08-17)
+
+
+### Features
+
+* add robust answer extraction scorers from gpt-oss to MathArena benchmarks and gpqa_diamond ([#97](https://github.com/groq/openbench/issues/97)) ([251ba66](https://github.com/groq/openbench/commit/251ba66b5e65cb30f1bd0afaaf1ac4a96e75a0ad))
+
+
+### Chores
+
+* update uv.lock package version ([3583d71](https://github.com/groq/openbench/commit/3583d71fee81d681861e0015383f8471459b4002))
+
 ## [0.3.0](https://github.com/groq/openbench/compare/v0.2.0...v0.3.0) (2025-08-14)
 
 
